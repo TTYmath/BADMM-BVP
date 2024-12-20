@@ -1,2 +1,2 @@
 # BADMM-BVP
-Bregman ADMM for Bethe variational problem
+MATLAB implementation of Bregman ADMM for Bethe variational problem
