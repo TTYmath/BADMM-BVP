@@ -10,9 +10,9 @@ Yuehaw Khoo, Tianyun Tang, and Kim-Chuan Toh, A Bregman ADMM for Bethe variation
 
 To test the spin glass model, run 'Run_Spin.m'. 
 
-To test the sensor network localization problem, run 'Run_SNL'.
+To test the sensor network localization problem, run 'Run_SNL.m'.
 
-To test the quantum ising model, run 'Run_Ising'.
+To test the quantum ising model, run 'Run_Ising.m'.
 
 ## Test your own problem
 
