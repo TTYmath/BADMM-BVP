@@ -24,7 +24,7 @@ Please input parameters following the previous three examples.
 
 ## Other algorithms
 
-Apart from Bregman ADMM, other algorithms for BVP and QBVP have also been implemented to comparison in numerical experiments. They are:
+Apart from Bregman ADMM, other algorithms for BVP and QBVP have also been implemented for comparison in numerical experiments. They are:
 
 'CCCP.m': Double-loop algorithm for BVP
 
