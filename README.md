@@ -20,7 +20,7 @@ You may also test you own problem using solvers:
 
 'BADMM.m': Bregman ADMM for BVP, 'QT_BADMM.m' Bregman ADMM for QBVP
 
-Please input parameters following the input the the previous three examples.
+Please input parameters following the previous three examples.
 
 ## Other algorithms
 
