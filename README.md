@@ -4,7 +4,7 @@ This repository contains a MATLAB implementation of the Bregman ADMM for Bethe v
 
 Details of the algorithm can be found in the following paper:  
 
-Yuehaw Khoo, Tianyun Tang, and Kim-Chuan Toh, A Bregman ADMM for Bethe variational problem. 
+Yuehaw Khoo, Tianyun Tang, and Kim-Chuan Toh, A Bregman ADMM for Bethe variational problem. https://arxiv.org/abs/2502.04613
 
 ## Reproduce results in paper
 
